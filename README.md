@@ -1,15 +1,4 @@
-
-<p align=center>
-    <svg width="85" height="85" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="37" y="40.4667" width="61.6667" height="61.6667" rx="5" fill="#D9D9D9"/>
-    <rect x="44.4" y="94.7333" width="12.3333" height="17.2667" rx="6.16667" fill="#D9D9D9"/>
-    <rect x="78.9333" y="94.7333" width="12.3333" height="17.2667" rx="6.16667" fill="#D9D9D9"/>
-    <rect x="46.8666" y="65.1333" width="12.3333" height="4.93333" rx="2.46667" fill="black"/>
-    <rect x="78.9333" y="52.8" width="12.3333" height="17.2667" rx="6.16667" fill="black"/>
-    <rect x="111.104" y="38" width="2.46667" height="14.8" transform="rotate(42.3516 111.104 38)" fill="white"/>
-    <rect x="102.404" y="38.969" width="2.46667" height="8.16039" transform="rotate(27.2585 102.404 38.969)" fill="white"/>
-    <rect x="112.77" y="47.4353" width="2.46667" height="10.2577" transform="rotate(63.3787 112.77 47.4353)" fill="white"/>
-</svg>
+<p align="center"><img width=90 src="https://provider.ams3.cdn.digitaloceanspaces.com/blocko-icon.svg"/></p>
 
 <h2 align="center"><b>Blocko Analytics</b></h2>
 <p align="center"><b>By <a href="https://github.com/u/rikkertthedeveloper">Rick Arendsen</a></b></p>
